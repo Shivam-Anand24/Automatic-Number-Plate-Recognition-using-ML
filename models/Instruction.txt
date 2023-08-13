@@ -1,0 +1,3 @@
+Link for Downloading the Trained Model which is essential to run the code. Once you unzip the file or clone the repository Download the Model and store it in the models folder as .h5 file.
+
+Link - https://drive.google.com/file/d/1Rnfc7zTTJ6RpLoQIkjy_96jHM2ScGquS/view?usp=sharing
